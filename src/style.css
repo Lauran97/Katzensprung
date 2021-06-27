@@ -1,0 +1,28 @@
+body{background-color: #faebd7;
+font-family: Courier New}
+main{background-color: white;
+opacity: 0.8;
+padding: 50px;
+margin-top: 50px;
+margin-left: 200px;
+margin-right: 200px;}
+header{font-size: 30px;
+text-align: center;}
+p{text-align: left;}
+h1, h2, h3, h4 {font-size: 20px;
+  font-weight: lighter;
+}
+
+table {width: 60%;
+text-align: center;
+  margin-left: 160px;
+  margin-bottom: 100px;
+}
+
+th {padding: 20px}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #faf0e6;}
+
